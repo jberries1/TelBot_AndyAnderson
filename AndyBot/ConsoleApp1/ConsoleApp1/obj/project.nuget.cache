@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBHogxHRmSczrvUO1eI/wD3vQclJT7hJp3BJZSemkBwEQlCqTzFum79n+CJ27f6yq2EnqUUtYUHxmvbnDz7lUw==",
+  "success": true,
+  "projectFilePath": "D:\\AllProject\\TelBot\\AndyBot\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycyb\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\mycyb\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
